@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+#number2Id {
+
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+
+}
+
+#number4Id {
+    background-color:rgb(149, 223, 149);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.numberClass {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
